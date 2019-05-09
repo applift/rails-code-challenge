@@ -1,5 +1,5 @@
 # Applift Rails code challenge
-The purpose of the challenge is to get an idea of your development style and skills. The way you structure code, tests, etc.
+The purpose of the challenge is to get an idea of your development style and skills
 
 ## Descprition
 Create RoR application where user can create multiple API endpoints by specifying SQL and returns query results as JSON.
@@ -11,16 +11,19 @@ Mock data you can find here: `TODO: add mock data`
 
 ## Features
 As user I want:
-- Create/edit/delete endpoint
+- Create/edit/delete endpoint with UI
 - When creating I want to define SQL query and endpoint URL
-- See endpoint stats - how many requests were:
+- Create stats page for each endpoint - how many requests were:
   - In total
   - Today
   - In last 6h, 12h, 24h
 - Access data from the API endpoint
 
+Other requirements:
+- Endpoint queries will be only `select` queries.
+
 ## Example:
-John creates endpoint called `users_from_us`, with sql:
+John uses UI to create endpoint with name `users_from_us` and with sql:
 
 ```
 select * from users where country = 'us';
