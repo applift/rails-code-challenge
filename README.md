@@ -1,7 +1,7 @@
 # Applift Rails code challenge
 The purpose of the challenge is to get an idea of your development style and skills
 
-## Descprition
+## Description
 Create RoR application where user can create multiple API endpoints by specifying SQL and returns query results as JSON.
 Do not over complicate the implementation. Just make sure you follow all the standards that you’d follow in a real project. Feel free to use any gems thay you want.
 
