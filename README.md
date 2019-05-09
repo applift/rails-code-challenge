@@ -7,7 +7,7 @@ Do not over complicate the implementation. Just make sure you follow all the sta
 
 Please don't spend more than 3 hours on this task. After that time stop coding and send us the result. We prefer that you will use github or gitlab, and send us the repo.
 
-Mock data you can find in [imports.sql file](./imports.sql)
+Mock data you can find in [imports.sql](./imports.sql).
 
 
 ## Features
