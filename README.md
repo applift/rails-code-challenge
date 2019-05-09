@@ -3,12 +3,11 @@ The purpose of the challenge is to get an idea of your development style and ski
 
 ## Description
 Create RoR application where user can create multiple API endpoints by specifying SQL and returns query results as JSON.
-Do not over complicate the implementation. Just make sure you follow all the standards that you’d follow in a real project. Feel free to use any gems thay you want.
+Do not over complicate the implementation. Just make sure you follow all the standards that you’d follow in a real project. Feel free to use any gems that you want.
 
-Please don't spend more than 3 hours on this task. After that time stop coding and send us the result. We prefer that you will use github or gitlab, and send us the repo.
+Please don't spend more than 3 hours on this task. After that time stop coding. Use github or gitlab, and share with us the repo.
 
 Mock data you can find in [imports.sql](./imports.sql).
-
 
 ## Features
 As user I want:
